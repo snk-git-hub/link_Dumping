@@ -8,3 +8,4 @@
 > | **DS-ALgo CP/LC** | `https://www.enjoyalgorithms.com/` `https://cp-algorithms.com/algebra/bit-manipulation.html` |
 > | **RISC-V** | `https://gregchadwick.co.uk/blog/building-rrs-pt1/` |
 > | **OS**|`https://qr.ae/pCCp38`|
+> | **C MCU organizes memory internally.**  |`https://s-nr.github.io/SnapShotInsight/variable_mem_details.html`|
