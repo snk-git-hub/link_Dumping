@@ -9,3 +9,4 @@
 > | **RISC-V** | `https://gregchadwick.co.uk/blog/building-rrs-pt1/` |
 > | **OS**|`https://qr.ae/pCCp38`|
 > | **C MCU organizes memory internally.**  |`https://s-nr.github.io/SnapShotInsight/variable_mem_details.html`|
+> | **RUST**|`https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a`|
