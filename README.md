@@ -11,3 +11,4 @@
 > | **C MCU organizes memory internally.**  |7`https://s-nr.github.io/SnapShotInsight/variable_mem_details.html`|
 > | **RUST**|8`https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a`|
 > | **BUILD OS USING RUST**|9`https://os.phil-opp.com/`|
+> | **Rust Project**| 10 `https://codecrafters.io/blog/rust-projects`|
