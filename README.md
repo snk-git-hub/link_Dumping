@@ -20,3 +20,4 @@ Here's the corrected and properly formatted table:
 | **TiKV** | https://github.com/tikv/tikv |
 | **Deno** | https://github.com/denoland/deno |
 | **Exa** | https://github.com/ogham/exa |
+| **cpp** | https://refactoring.guru/design-patterns/adapter |
